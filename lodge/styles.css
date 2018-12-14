@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    html {
+    background-size:cover;
+    overflow:scroll;
+    }
+    
+    .HomePage{
+        
+    background-image: url("mountainHP.jpg");
+    overflow: scroll;
+    height: 1000px;
+    background-size: cover;
+    }
+    
+    .Lodging{
+    background-image: url("snowforestJG.jpg ");
+    overflow: scroll;
+    scroll-behavior: smooth;
+    height: 1000px;
+    background-size: cover;
+    }
+    
+    
+    div.headerJG {
+        background-color: teal;
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: white;
+        text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+        margin: 0;
+    
+        
+    }
+    
+    div.footerJG {
+        background-color: teal;
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: white;
+        text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        height: 28px;
+        margin-top: -40px;
+        padding-bottom: 10px;
+       
+    }
+    
+    .navJG{
+        
+        background-color:black;
+        overflow: hidden;
+        
+    
+        
+    }
+    .navJG a {
+        float: left;
+        color:white;
+        text-shadow: black;
+        padding: 13px;
+        
+        
+    }
+    
+    div.WhatHP{
+        font-family: sans-serif;
+        width: 400px;
+        height: 200px;
+        overflow: scroll;
+        background-color: gray;
+        margin: 0 auto;
+        margin-top: 100px; 
+        float: left;
+        border-radius: 25px;
+        margin-left: 10px;
+        text-indent: 20px;
+        color: black;
+        border: solid 6px black;
+        text-align: center;
+    
+    }
+    div.WhenHP{
+        font-family: sans-serif;
+        width: 400px;
+        height: 200px;
+        overflow: scroll;
+        background-color: lightblue;
+        margin-top: 100px;
+        margin-right: 80px;
+        float:right;
+        border-radius:25px;
+        color: black;
+        border: solid 6px black;
+        text-align: center;
+    }
+    div.quotes{
+        font-style:italic;
+        text-align: center;
+        font-size: 18px;
+        text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+        color: white;
+    }
+    div.WhereHP {
+        font-family: sans-serif;
+        width: 400px;
+        height: 200px;
+        overflow: scroll;
+        background-color: teal;
+        margin: 0 auto;
+        margin-top: 100px; 
+        float: left;
+        border-radius: 25px;
+        margin-left: 10px;
+        text-indent: 20px;
+        color: black;
+        border: solid 6px black;
+        text-align: center;
+    
+    }
+    div.lodginglistJG{
+    
+    font-family: sans-serif;
+    text-align: center;
+    width: 400px;
+    margin-top: 50px;
+    background-color: lightslategray;
+    
+    border: solid 2px black;
+    
+    }
+    div.standardJG{
+    font-family: sans-serif;
+    text-align:center;
+    width: 400px;
+    background-color:teal;
+    margin-top: 60px;
+    margin-left:500px;
+    
+    border: solid 6px black;
+    
+    }
+    div.familyJG{
+    font-family: sans-serif;
+    text-align:center;
+    width: 400px;
+    background-color:crimson;
+    margin-top: 60px;
+    margin-left:500px;
+    border: solid 6px black;
+    
+    
+    }
+    div.deluxeJG{
+    font-family: sans-serif;
+    text-align:center;
+    width: 400px;
+    background-color:forestgreen;
+    margin-top: 60px;
+    margin-left:500px;
+    border: solid 6px black;
+    
+    }
+    div.luxuryJG{
+    font-family: sans-serif;
+    text-align:center;
+    width: 400px;
+    background-color:goldenrod;
+    margin-top: 60px;
+    margin-left:500px;
+    border: solid 6px black;
+    
+    
+    }
+    h2{
+    font-style: italic;
+    }
